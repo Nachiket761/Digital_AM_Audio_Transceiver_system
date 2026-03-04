@@ -6,6 +6,8 @@ This project consists of 4 stages:
 2. Generation of carrier frequency and encoding the audio signal using ON-OFF Keying (OOK)
 3. Pre-amplification of raw carrier signal
 4. separation of payload from carrier and demodulate digital signal back into analog signal.
+<img width="2179" height="475" alt="image" src="https://github.com/user-attachments/assets/1d1f6f84-1b9a-4cc0-b767-8639bdf8b8e9" />
+
 
 **Physics**
  - stage 1: 
